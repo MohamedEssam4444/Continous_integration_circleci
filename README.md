@@ -1,3 +1,4 @@
-# hello
-cloud based continous integration udacity project
-https://circleci.com/gh/MohamedEssam4444/hello.svg?style=svg 
+# continous integration using circle ci
+cloud based continous integration using circle ci tool
+https://circleci.com/gh/MohamedEssam4444/hello.svg?style=svg
+
